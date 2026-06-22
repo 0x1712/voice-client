@@ -1,7 +1,7 @@
 {
-  "name": "discord.js-selfbot-v13",
+  "name": "voice-client",
   "version": "3.7.1",
-  "description": "An unofficial discord.js fork for creating selfbots",
+  "description": "",
   "main": "./src/index.js",
   "types": "./typings/index.d.ts",
   "scripts": {
@@ -29,13 +29,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aiko-chan-ai/discord.js-selfbot-v13.git"
+    "url": "git+https://github.com/0x1712/voice-client.git"
   },
   "keywords": [
     "discord.js",
     "discord.js v13",
-    "selfbot",
-    "selfbot v13",
     "djs",
     "api",
     "bot",
@@ -44,12 +42,12 @@
     "client",
     "discordapp"
   ],
-  "author": "aiko-chan-ai",
+  "author": "",
   "license": "GNU General Public License v3.0",
   "bugs": {
-    "url": "https://github.com/aiko-chan-ai/discord.js-selfbot-v13/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/aiko-chan-ai/discord.js-selfbot-v13#readme",
+  "homepage": "",
   "dependencies": {
     "@discordjs/builders": "^1.6.3",
     "@discordjs/collection": "^2.1.1",
